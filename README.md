@@ -2,7 +2,6 @@
 
 An interactive Power BI dashboard analyzing Netflix content trends, genre distribution, top actors, directors, and content-producing countries — designed with a Netflix-inspired UI theme.
 
----
 
 ## 📊 Dashboard Overview
 
@@ -18,8 +17,6 @@ This project explores the Netflix titles dataset and presents insights through i
 - 📊 KPI cards (Total Titles, Movies, TV Shows, Countries)
 - 🎛 Interactive slicers (Year, Rating, Country)
 
----
-
 ## 🛠 Tools & Technologies Used
 
 - **Power BI**
@@ -27,8 +24,6 @@ This project explores the Netflix titles dataset and presents insights through i
 - **Data Modeling**
 - **Data Cleaning & Transformation**
 - Interactive Visualizations
-
----
 
 ## 🎨 Design Highlights
 
@@ -38,23 +33,19 @@ This project explores the Netflix titles dataset and presents insights through i
 - Multi-page dashboard structure
 - Professional layout & alignment
 
----
-
 ## 📷 Dashboard Preview
 
 ### 🟥 Cover Page
-(Add your cover-page.png here)
+![Cover Page](netflix-content-analysis-powerbi%201.png)
 
 ### 📊 Content Overview
-(Add your content-overview.png here)
+![Content Overview](netflix-content-analysis-powerbi%202.png)
 
 ### 📈 Analytics Dashboard
-(Add your analytics-dashboard.png here)
+![Analytics Dashboard](netflix-content-analysis-powerbi%203.png)
 
 ### 🎭 Actors & Directors Analysis
-(Add your actors-directors.png here)
-
----
+![Actors & Directors Analysis](netflix-content-analysis-powerbi%204.png)
 
 ## 🚀 How to Use
 
@@ -62,15 +53,11 @@ This project explores the Netflix titles dataset and presents insights through i
 2. Open in Power BI Desktop.
 3. Interact using slicers to explore insights.
 
----
-
 ## 👩‍💻 Author
 
 **Pragathi N**  
 AI/ML & Data Analytics Enthusiast  
 Power BI Developer  
-
----
 
 ## 📌 Repository Topics
 
